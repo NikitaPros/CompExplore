@@ -4,22 +4,24 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Socket
+  - Interactable
   - Item
-  - Ozu
-  - Motherboard
+  - Socket
   - Processor
-  - SocketWork
   - Tools
+  - Ozu
+  - SocketWork
+  - Motherboard
+  - SocketParent
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - EtraFPSUsableItem
   - Water
   - UI
-  - CPU
-  - 
+  - UI
+  - Player
   - 
   - 
   - 
